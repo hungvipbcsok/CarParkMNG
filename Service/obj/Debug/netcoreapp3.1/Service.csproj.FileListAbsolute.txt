@@ -1,0 +1,16 @@
+D:\Tai Lieu\C# Learning\DEMO\CarParkMNG\Service\bin\Debug\netcoreapp3.1\Service.deps.json
+D:\Tai Lieu\C# Learning\DEMO\CarParkMNG\Service\bin\Debug\netcoreapp3.1\Service.runtimeconfig.json
+D:\Tai Lieu\C# Learning\DEMO\CarParkMNG\Service\bin\Debug\netcoreapp3.1\Service.runtimeconfig.dev.json
+D:\Tai Lieu\C# Learning\DEMO\CarParkMNG\Service\bin\Debug\netcoreapp3.1\Service.dll
+D:\Tai Lieu\C# Learning\DEMO\CarParkMNG\Service\bin\Debug\netcoreapp3.1\Service.pdb
+D:\Tai Lieu\C# Learning\DEMO\CarParkMNG\Service\obj\Debug\netcoreapp3.1\Service.csproj.AssemblyReference.cache
+D:\Tai Lieu\C# Learning\DEMO\CarParkMNG\Service\obj\Debug\netcoreapp3.1\Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tai Lieu\C# Learning\DEMO\CarParkMNG\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfoInputs.cache
+D:\Tai Lieu\C# Learning\DEMO\CarParkMNG\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfo.cs
+D:\Tai Lieu\C# Learning\DEMO\CarParkMNG\Service\obj\Debug\netcoreapp3.1\Service.csproj.CoreCompileInputs.cache
+D:\Tai Lieu\C# Learning\DEMO\CarParkMNG\Service\obj\Debug\netcoreapp3.1\Service.dll
+D:\Tai Lieu\C# Learning\DEMO\CarParkMNG\Service\obj\Debug\netcoreapp3.1\Service.pdb
+D:\Tai Lieu\C# Learning\DEMO\CarParkMNG\Service\obj\Debug\netcoreapp3.1\Service.genruntimeconfig.cache
+D:\Tai Lieu\C# Learning\DEMO\CarParkMNG\Service\bin\Debug\netcoreapp3.1\Model.dll
+D:\Tai Lieu\C# Learning\DEMO\CarParkMNG\Service\bin\Debug\netcoreapp3.1\Model.pdb
+D:\Tai Lieu\C# Learning\DEMO\CarParkMNG\Service\obj\Debug\netcoreapp3.1\Service.csproj.CopyComplete
